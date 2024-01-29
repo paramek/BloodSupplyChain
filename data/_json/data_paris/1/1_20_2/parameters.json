@@ -1,0 +1,58 @@
+{
+ "NumberOfBudgetValues": 5,
+ "NumberOfPenalityValues": 7,
+ "BudgetUpperBound": 700162,
+ "HigherBloodDemand": 105062,
+ "Budgets": [
+	{
+	 "id": 0,
+	 "value": 70016.2
+	},
+	{
+	 "id": 1,
+	 "value": 140032
+	},
+	{
+	 "id": 2,
+	 "value": 210049
+	},
+	{
+	 "id": 3,
+	 "value": 280065
+	},
+	{
+	 "id": 4,
+	 "value": 350081
+	}
+ ],
+ "Penalities": [
+	{
+	 "id": 0,
+	 "value": 6.66
+	},
+	{
+	 "id": 1,
+	 "value": 33.32
+	},
+	{
+	 "id": 2,
+	 "value": 66.64
+	},
+	{
+	 "id": 3,
+	 "value": 99.96
+	},
+	{
+	 "id": 4,
+	 "value": 166.61
+	},
+	{
+	 "id": 5,
+	 "value": 233.25
+	},
+	{
+	 "id": 6,
+	 "value": 299.89
+	}
+ ]
+}
