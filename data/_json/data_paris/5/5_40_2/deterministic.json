@@ -1,0 +1,287 @@
+{
+ "NumberOfHospitals": 5,
+ "NumberOfDistricts": 40,
+ "TimeHorizon": 2,
+ "CapacityOfParmanentFacility": 5013,
+ "CapacityOfMobileFacility": 200,
+ "SetupCostOfPermanentFacility": 15219.5,
+ "SetupCostOfMobileFacility": 322.98,
+ "MovingCostOfMobileFacility": 1,
+ "OperationalCost": 0.0690567,
+ "StorageCost": 1,
+ "BloodTransportationCost": 0.02,
+ "Districts": [
+	{
+	 "id": 0,
+	 "supply": 1976,
+	 "latitude": 48.8625,
+	 "longitude": 2.34601
+	},
+	{
+	 "id": 1,
+	 "supply": 703,
+	 "latitude": 48.8636,
+	 "longitude": 2.3362
+	},
+	{
+	 "id": 2,
+	 "supply": 296,
+	 "latitude": 48.8691,
+	 "longitude": 2.33291
+	},
+	{
+	 "id": 3,
+	 "supply": 1884,
+	 "latitude": 48.8642,
+	 "longitude": 2.36258
+	},
+	{
+	 "id": 4,
+	 "supply": 1894,
+	 "latitude": 48.8596,
+	 "longitude": 2.36258
+	},
+	{
+	 "id": 5,
+	 "supply": 1650,
+	 "latitude": 48.8627,
+	 "longitude": 2.35414
+	},
+	{
+	 "id": 6,
+	 "supply": 2329,
+	 "latitude": 48.8554,
+	 "longitude": 2.36042
+	},
+	{
+	 "id": 7,
+	 "supply": 899,
+	 "latitude": 48.8529,
+	 "longitude": 2.35005
+	},
+	{
+	 "id": 8,
+	 "supply": 2565,
+	 "latitude": 48.8485,
+	 "longitude": 2.35038
+	},
+	{
+	 "id": 9,
+	 "supply": 2130,
+	 "latitude": 48.8491,
+	 "longitude": 2.34533
+	},
+	{
+	 "id": 10,
+	 "supply": 1361,
+	 "latitude": 48.8546,
+	 "longitude": 2.34015
+	},
+	{
+	 "id": 11,
+	 "supply": 1943,
+	 "latitude": 48.8523,
+	 "longitude": 2.33937
+	},
+	{
+	 "id": 12,
+	 "supply": 5441,
+	 "latitude": 48.8447,
+	 "longitude": 2.32883
+	},
+	{
+	 "id": 13,
+	 "supply": 2785,
+	 "latitude": 48.8549,
+	 "longitude": 2.32531
+	},
+	{
+	 "id": 14,
+	 "supply": 1381,
+	 "latitude": 48.8609,
+	 "longitude": 2.3145
+	},
+	{
+	 "id": 15,
+	 "supply": 2837,
+	 "latitude": 48.8518,
+	 "longitude": 2.30476
+	},
+	{
+	 "id": 16,
+	 "supply": 5534,
+	 "latitude": 48.8574,
+	 "longitude": 2.30054
+	},
+	{
+	 "id": 17,
+	 "supply": 1015,
+	 "latitude": 48.8708,
+	 "longitude": 2.30533
+	},
+	{
+	 "id": 18,
+	 "supply": 2208,
+	 "latitude": 48.874,
+	 "longitude": 2.3028
+	},
+	{
+	 "id": 19,
+	 "supply": 4093,
+	 "latitude": 48.8788,
+	 "longitude": 2.32226
+	},
+	{
+	 "id": 20,
+	 "supply": 4587,
+	 "latitude": 48.8784,
+	 "longitude": 2.33746
+	},
+	{
+	 "id": 21,
+	 "supply": 767,
+	 "latitude": 48.8732,
+	 "longitude": 2.33226
+	},
+	{
+	 "id": 22,
+	 "supply": 2031,
+	 "latitude": 48.8768,
+	 "longitude": 2.33927
+	},
+	{
+	 "id": 23,
+	 "supply": 4887,
+	 "latitude": 48.8801,
+	 "longitude": 2.345
+	},
+	{
+	 "id": 24,
+	 "supply": 4757,
+	 "latitude": 48.879,
+	 "longitude": 2.35192
+	},
+	{
+	 "id": 25,
+	 "supply": 3315,
+	 "latitude": 48.8698,
+	 "longitude": 2.35269
+	},
+	{
+	 "id": 26,
+	 "supply": 6571,
+	 "latitude": 48.8738,
+	 "longitude": 2.3677
+	},
+	{
+	 "id": 27,
+	 "supply": 7260,
+	 "latitude": 48.8674,
+	 "longitude": 2.37342
+	},
+	{
+	 "id": 28,
+	 "supply": 10454,
+	 "latitude": 48.8573,
+	 "longitude": 2.3812
+	},
+	{
+	 "id": 29,
+	 "supply": 7475,
+	 "latitude": 48.8413,
+	 "longitude": 2.40091
+	},
+	{
+	 "id": 30,
+	 "supply": 4014,
+	 "latitude": 48.8378,
+	 "longitude": 2.36468
+	},
+	{
+	 "id": 31,
+	 "supply": 15182,
+	 "latitude": 48.8279,
+	 "longitude": 2.37288
+	},
+	{
+	 "id": 32,
+	 "supply": 4085,
+	 "latitude": 48.8435,
+	 "longitude": 2.3283
+	},
+	{
+	 "id": 33,
+	 "supply": 8191,
+	 "latitude": 48.8269,
+	 "longitude": 2.32624
+	},
+	{
+	 "id": 34,
+	 "supply": 18047,
+	 "latitude": 48.8344,
+	 "longitude": 2.29822
+	},
+	{
+	 "id": 35,
+	 "supply": 10430,
+	 "latitude": 48.8539,
+	 "longitude": 2.28938
+	},
+	{
+	 "id": 36,
+	 "supply": 8512,
+	 "latitude": 48.8864,
+	 "longitude": 2.32146
+	},
+	{
+	 "id": 37,
+	 "supply": 14271,
+	 "latitude": 48.8941,
+	 "longitude": 2.34568
+	},
+	{
+	 "id": 38,
+	 "supply": 8577,
+	 "latitude": 48.8774,
+	 "longitude": 2.37102
+	},
+	{
+	 "id": 39,
+	 "supply": 13838,
+	 "latitude": 48.8547,
+	 "longitude": 2.38536
+	}
+ ],
+ "Hospitals": [
+	{
+	 "id": 0,
+	 "capacity": 25065,
+	 "latitude": 48.8288,
+	 "longitude": 2.33914
+	},
+	{
+	 "id": 1,
+	 "capacity": 25064,
+	 "latitude": 48.8294,
+	 "longitude": 2.31138
+	},
+	{
+	 "id": 2,
+	 "capacity": 25064,
+	 "latitude": 48.8292,
+	 "longitude": 2.31105
+	},
+	{
+	 "id": 3,
+	 "capacity": 12532,
+	 "latitude": 48.8227,
+	 "longitude": 2.33301
+	},
+	{
+	 "id": 4,
+	 "capacity": 12532,
+	 "latitude": 48.8408,
+	 "longitude": 2.31024
+	}
+ ]
+}

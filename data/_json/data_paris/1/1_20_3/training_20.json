@@ -1,0 +1,447 @@
+{
+ "NumberOfHospitals": 1,
+ "NumberOfScenarios": 20,
+ "TimeHorizon": 3,
+ "Scenarios": [
+	{
+	 "id": 0,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 53120
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 24889
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 14024
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 1,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 25253
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 20208
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 16027
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 2,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 28284
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 19892
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 12635
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 3,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 41838
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 24118
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 17155
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 4,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 28360
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 20367
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 15188
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 5,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 75181
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 19148
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 8349
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 6,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 57351
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 23672
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 13141
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 7,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 56643
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 25916
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 11548
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 8,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 78607
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 19260
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 6688
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 9,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 48914
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 25153
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 16147
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 10,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 35072
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 22593
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 16976
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 11,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 56916
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 24339
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 11265
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 12,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 8578
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 6990
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 7912
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 13,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 27639
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 17446
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 14596
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 14,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 8321
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 8666
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 7795
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 15,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 66039
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 21518
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 11128
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 16,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 65141
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 24842
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 9824
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 17,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 67184
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 24759
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 8210
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 18,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 55564
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 25999
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 12023
+			}
+		 ]
+		}
+	 ]
+	},
+	{
+	 "id": 19,
+	 "Hospitals": [
+		{
+		 "id": 0,
+		 "Periods": [
+			{
+			 "time": 1,
+			 "bloodDemand": 9460
+			},
+			{
+			 "time": 2,
+			 "bloodDemand": 7505
+			},
+			{
+			 "time": 3,
+			 "bloodDemand": 7475
+			}
+		 ]
+		}
+	 ]
+	}
+ ]
+}

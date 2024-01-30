@@ -1,0 +1,269 @@
+{
+ "NumberOfHospitals": 2,
+ "NumberOfDistricts": 40,
+ "TimeHorizon": 2,
+ "CapacityOfParmanentFacility": 17262,
+ "CapacityOfMobileFacility": 200,
+ "SetupCostOfPermanentFacility": 52407.6,
+ "SetupCostOfMobileFacility": 322.98,
+ "MovingCostOfMobileFacility": 1,
+ "OperationalCost": 0.0690567,
+ "StorageCost": 1,
+ "BloodTransportationCost": 0.02,
+ "Districts": [
+	{
+	 "id": 0,
+	 "supply": 670,
+	 "latitude": 48.8675,
+	 "longitude": 2.32943
+	},
+	{
+	 "id": 1,
+	 "supply": 1272,
+	 "latitude": 48.8681,
+	 "longitude": 2.34459
+	},
+	{
+	 "id": 2,
+	 "supply": 2111,
+	 "latitude": 48.8706,
+	 "longitude": 2.34875
+	},
+	{
+	 "id": 3,
+	 "supply": 2103,
+	 "latitude": 48.8654,
+	 "longitude": 2.35613
+	},
+	{
+	 "id": 4,
+	 "supply": 1884,
+	 "latitude": 48.8642,
+	 "longitude": 2.36258
+	},
+	{
+	 "id": 5,
+	 "supply": 1894,
+	 "latitude": 48.8596,
+	 "longitude": 2.36258
+	},
+	{
+	 "id": 6,
+	 "supply": 2329,
+	 "latitude": 48.8554,
+	 "longitude": 2.36042
+	},
+	{
+	 "id": 7,
+	 "supply": 899,
+	 "latitude": 48.8529,
+	 "longitude": 2.35005
+	},
+	{
+	 "id": 8,
+	 "supply": 2565,
+	 "latitude": 48.8485,
+	 "longitude": 2.35038
+	},
+	{
+	 "id": 9,
+	 "supply": 3961,
+	 "latitude": 48.8432,
+	 "longitude": 2.35951
+	},
+	{
+	 "id": 10,
+	 "supply": 1943,
+	 "latitude": 48.8523,
+	 "longitude": 2.33937
+	},
+	{
+	 "id": 11,
+	 "supply": 2785,
+	 "latitude": 48.8549,
+	 "longitude": 2.32531
+	},
+	{
+	 "id": 12,
+	 "supply": 1381,
+	 "latitude": 48.8609,
+	 "longitude": 2.3145
+	},
+	{
+	 "id": 13,
+	 "supply": 5534,
+	 "latitude": 48.8574,
+	 "longitude": 2.30054
+	},
+	{
+	 "id": 14,
+	 "supply": 4093,
+	 "latitude": 48.8788,
+	 "longitude": 2.32226
+	},
+	{
+	 "id": 15,
+	 "supply": 4887,
+	 "latitude": 48.8801,
+	 "longitude": 2.345
+	},
+	{
+	 "id": 16,
+	 "supply": 5088,
+	 "latitude": 48.8691,
+	 "longitude": 2.35565
+	},
+	{
+	 "id": 17,
+	 "supply": 6571,
+	 "latitude": 48.8738,
+	 "longitude": 2.3677
+	},
+	{
+	 "id": 18,
+	 "supply": 10454,
+	 "latitude": 48.8573,
+	 "longitude": 2.3812
+	},
+	{
+	 "id": 19,
+	 "supply": 8025,
+	 "latitude": 48.8524,
+	 "longitude": 2.38589
+	},
+	{
+	 "id": 20,
+	 "supply": 7475,
+	 "latitude": 48.8413,
+	 "longitude": 2.40091
+	},
+	{
+	 "id": 21,
+	 "supply": 13848,
+	 "latitude": 48.8451,
+	 "longitude": 2.40109
+	},
+	{
+	 "id": 22,
+	 "supply": 3077,
+	 "latitude": 48.8368,
+	 "longitude": 2.38085
+	},
+	{
+	 "id": 23,
+	 "supply": 4014,
+	 "latitude": 48.8378,
+	 "longitude": 2.36468
+	},
+	{
+	 "id": 24,
+	 "supply": 14255,
+	 "latitude": 48.8225,
+	 "longitude": 2.3585
+	},
+	{
+	 "id": 25,
+	 "supply": 8191,
+	 "latitude": 48.8269,
+	 "longitude": 2.32624
+	},
+	{
+	 "id": 26,
+	 "supply": 12590,
+	 "latitude": 48.8318,
+	 "longitude": 2.31404
+	},
+	{
+	 "id": 27,
+	 "supply": 18047,
+	 "latitude": 48.8344,
+	 "longitude": 2.29822
+	},
+	{
+	 "id": 28,
+	 "supply": 10800,
+	 "latitude": 48.8392,
+	 "longitude": 2.27905
+	},
+	{
+	 "id": 29,
+	 "supply": 14953,
+	 "latitude": 48.8477,
+	 "longitude": 2.26674
+	},
+	{
+	 "id": 30,
+	 "supply": 6033,
+	 "latitude": 48.8713,
+	 "longitude": 2.27777
+	},
+	{
+	 "id": 31,
+	 "supply": 4667,
+	 "latitude": 48.8689,
+	 "longitude": 2.29211
+	},
+	{
+	 "id": 32,
+	 "supply": 8571,
+	 "latitude": 48.8857,
+	 "longitude": 2.30054
+	},
+	{
+	 "id": 33,
+	 "supply": 8512,
+	 "latitude": 48.8864,
+	 "longitude": 2.32146
+	},
+	{
+	 "id": 34,
+	 "supply": 14271,
+	 "latitude": 48.8941,
+	 "longitude": 2.34568
+	},
+	{
+	 "id": 35,
+	 "supply": 5288,
+	 "latitude": 48.8827,
+	 "longitude": 2.33929
+	},
+	{
+	 "id": 36,
+	 "supply": 5408,
+	 "latitude": 48.8947,
+	 "longitude": 2.3823
+	},
+	{
+	 "id": 37,
+	 "supply": 7870,
+	 "latitude": 48.8717,
+	 "longitude": 2.38509
+	},
+	{
+	 "id": 38,
+	 "supply": 9259,
+	 "latitude": 48.8715,
+	 "longitude": 2.40431
+	},
+	{
+	 "id": 39,
+	 "supply": 13838,
+	 "latitude": 48.8547,
+	 "longitude": 2.38536
+	}
+ ],
+ "Hospitals": [
+	{
+	 "id": 0,
+	 "capacity": 86311,
+	 "latitude": 48.8288,
+	 "longitude": 2.33914
+	},
+	{
+	 "id": 1,
+	 "capacity": 43155,
+	 "latitude": 48.8294,
+	 "longitude": 2.31138
+	}
+ ]
+}

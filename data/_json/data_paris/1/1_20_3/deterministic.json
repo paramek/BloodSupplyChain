@@ -1,0 +1,143 @@
+{
+ "NumberOfHospitals": 1,
+ "NumberOfDistricts": 20,
+ "TimeHorizon": 3,
+ "CapacityOfParmanentFacility": 7063,
+ "CapacityOfMobileFacility": 200,
+ "SetupCostOfPermanentFacility": 21443.3,
+ "SetupCostOfMobileFacility": 322.98,
+ "MovingCostOfMobileFacility": 1,
+ "OperationalCost": 0.0690567,
+ "StorageCost": 1,
+ "BloodTransportationCost": 0.02,
+ "Districts": [
+	{
+	 "id": 0,
+	 "supply": 1976,
+	 "latitude": 48.8625,
+	 "longitude": 2.34601
+	},
+	{
+	 "id": 1,
+	 "supply": 703,
+	 "latitude": 48.8636,
+	 "longitude": 2.3362
+	},
+	{
+	 "id": 2,
+	 "supply": 1272,
+	 "latitude": 48.8681,
+	 "longitude": 2.34459
+	},
+	{
+	 "id": 3,
+	 "supply": 1894,
+	 "latitude": 48.8596,
+	 "longitude": 2.36258
+	},
+	{
+	 "id": 4,
+	 "supply": 2084,
+	 "latitude": 48.8516,
+	 "longitude": 2.3648
+	},
+	{
+	 "id": 5,
+	 "supply": 899,
+	 "latitude": 48.8529,
+	 "longitude": 2.35005
+	},
+	{
+	 "id": 6,
+	 "supply": 2130,
+	 "latitude": 48.8491,
+	 "longitude": 2.34533
+	},
+	{
+	 "id": 7,
+	 "supply": 1943,
+	 "latitude": 48.8523,
+	 "longitude": 2.33937
+	},
+	{
+	 "id": 8,
+	 "supply": 5441,
+	 "latitude": 48.8447,
+	 "longitude": 2.32883
+	},
+	{
+	 "id": 9,
+	 "supply": 2837,
+	 "latitude": 48.8518,
+	 "longitude": 2.30476
+	},
+	{
+	 "id": 10,
+	 "supply": 6571,
+	 "latitude": 48.8738,
+	 "longitude": 2.3677
+	},
+	{
+	 "id": 11,
+	 "supply": 7260,
+	 "latitude": 48.8674,
+	 "longitude": 2.37342
+	},
+	{
+	 "id": 12,
+	 "supply": 7077,
+	 "latitude": 48.8611,
+	 "longitude": 2.3748
+	},
+	{
+	 "id": 13,
+	 "supply": 8025,
+	 "latitude": 48.8524,
+	 "longitude": 2.38589
+	},
+	{
+	 "id": 14,
+	 "supply": 4014,
+	 "latitude": 48.8378,
+	 "longitude": 2.36468
+	},
+	{
+	 "id": 15,
+	 "supply": 18047,
+	 "latitude": 48.8344,
+	 "longitude": 2.29822
+	},
+	{
+	 "id": 16,
+	 "supply": 10800,
+	 "latitude": 48.8392,
+	 "longitude": 2.27905
+	},
+	{
+	 "id": 17,
+	 "supply": 8512,
+	 "latitude": 48.8864,
+	 "longitude": 2.32146
+	},
+	{
+	 "id": 18,
+	 "supply": 5288,
+	 "latitude": 48.8827,
+	 "longitude": 2.33929
+	},
+	{
+	 "id": 19,
+	 "supply": 9313,
+	 "latitude": 48.8611,
+	 "longitude": 2.39401
+	}
+ ],
+ "Hospitals": [
+	{
+	 "id": 0,
+	 "capacity": 35314,
+	 "latitude": 48.8288,
+	 "longitude": 2.33914
+	}
+ ]
+}
